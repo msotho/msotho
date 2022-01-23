@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @msotho
-- 👀 I’m interested in kotlin, spring boot, ktor, typescript and react
-- 🌱 I’m currently learning kotlin multiplatform mobile
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Sechaba Mofokeng
+- 👀 I’m interested in kotlin and spring boot for backend, typescript and react for frontend, and native cloud.
+- 🌱 I’m currently learning Google Cloud Platform (GCP)
 - 📫 You can reach me on twitter: @SechabaWorld
-
-<!---
-msotho/msotho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
