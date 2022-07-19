@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Sechaba Mofokeng
 - 👀 I’m interested in kotlin and spring boot for backend, typescript and react for frontend, and native cloud.
-- 🌱 I’m currently learning Google Cloud Platform (GCP)
+- 🌱 Google Cloud
 - 📫 You can reach me on twitter: @SechabaWorld
