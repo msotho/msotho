@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Sechaba Mofokeng
-- 👀 I’m interested in kotlin and spring boot for backend, typescript and react for frontend, and native cloud.
+- 👀 I’m interested in Kotlin, Typescript, Python and SQL.
 - 🌱 Google Cloud
 - 📫 You can reach me on twitter: @SechabaWorld
