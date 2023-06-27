@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Sechaba Mofokeng
-- 👀 I’m interested in Kotlin, Typescript, Python and SQL.
-- 🌱 Google Cloud
+- 👀 I’m interested in Kotlin, Typescript, Python and SQL
+- 🌱 Google Cloud and Rust
 - 📫 You can reach me on twitter: @SechabaWorld
