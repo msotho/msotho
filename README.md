@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Sechaba Mofokeng
-- 👀 I’m interested in Kotlin, Typescript, Python and SQL
-- 🌱 Google Cloud and Rust
-- 📫 You can reach me on twitter: @SechabaWorld
+- 👋 Hi, I’m Sechaba, co-founder of [Onemoola](https://github.com/onemoola), a fintech startup that automates how people manage their personal finances.
+- 👀 I’m interested in Kotlin & Spring Boot, Typescript & React, Rust and Google Cloud.
+- 📫 You can reach me on X: [@SechabaWorld](https://twitter.com/sechabaworld)
