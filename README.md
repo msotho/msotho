@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Sechaba, co-founder of [Onemoola](https://github.com/onemoola), a fintech startup that automates how people manage their personal finances.
-- 👀 I’m interested in Kotlin & Spring Boot, Typescript & React, Rust and Google Cloud.
+- :briefcase: [@onemoola](https://github.com/onemoola)
+- :computer: Google Cloud Certified, Kotlin, Spring Boot, TypeScript, React, Python
 - 📫 You can reach me on X: [@SechabaWorld](https://twitter.com/sechabaworld)
